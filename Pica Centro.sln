@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pica Centro", "Pica Centro\Pica Centro.pyproj", "{E9008EB7-6A19-4B15-9D23-A8E6993698CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9008EB7-6A19-4B15-9D23-A8E6993698CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9008EB7-6A19-4B15-9D23-A8E6993698CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E18567A-371F-465C-8F05-C1A691FC9493}
+	EndGlobalSection
+EndGlobal
