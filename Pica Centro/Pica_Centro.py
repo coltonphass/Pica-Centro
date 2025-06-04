@@ -1,4 +1,4 @@
-# Global Variables
+# Global Variables!
 Guesses      = 10   # Only allow 10 guesses for player 2
 digits       = 3    # Only allow three digits for whole number
 secretNumber = []   # List, this will store the full secret number and we will convert it later for output.
